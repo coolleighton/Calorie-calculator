@@ -277,3 +277,9 @@ td {
   transform: scale(1.12);
   transition: 0.3s;
 }
+
+.git-link {
+  color: white;
+  text-decoration: none;
+}
+
